@@ -38,8 +38,8 @@ To run the project, you will need the following packages:
 - other dependencies
 
 ### Other Application of Noise2SR
-- [Zero-shot denoiser for TEM/STEM image](https://arxiv.org/pdf/2406.14264) [[Code](https://github.com/MeijiTian/ZS-Denoiser-HREM)] 
-- [Self-superivsed denoising for High-dimensional MRI denoising](https://www.sciencedirect.com/science/article/pii/S174680942401509X)
+- STEM/TEM (ultra-low SNR): [Zero-shot denoiser for TEM/STEM image](https://arxiv.org/pdf/2406.14264) [[Code](https://github.com/MeijiTian/ZS-Denoiser-HREM)] 
+- MRI imaging: [Self-superivsed denoising for High-dimensional MRI denoising](https://www.sciencedirect.com/science/article/pii/S174680942401509X)
 
 ###  Others
 
